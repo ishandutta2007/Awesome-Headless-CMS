@@ -40,8 +40,9 @@ This repository tracks notable **SaaS/hosted platforms** and **open-source proje
 - [☁️ SaaS & Hosted Platforms](#️-saashosted-platforms)
 - [💻 Open-Source GitHub Projects](#-open-source-github-projects)
 - [🧱 Open-Source Building Blocks](#-open-source-building-blocks)
-- [📊 Star History](#-star-history)
+- [📈 Star History](#-star-history)
 - [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support](#-support)
 - [⚖️ Disclaimer](#️-disclaimer)
 
 ---
@@ -253,9 +254,9 @@ When architecting a tailored, self-hosted, or composable headless CMS stack, dev
 
 ---
 
-## 📊 Star History
+## 📈 Star History
 
-[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Headless-CMS&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Headless-CMS&type=date&legend=top-left)
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-Headless-CMS&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-Headless-CMS&type=date&legend=top-left)
 
 ---
 
@@ -269,6 +270,30 @@ Contributions are warmly welcomed! Help keep this curated directory the best res
 4. For SaaS tools, provide accurate starting prices and exact free tier/trial limits.
 5. **Submit a Pull Request (PR)** with a clear title and summary of changes.
 6. ⭐️ **Star the repository** if you find it valuable!
+
+---
+
+## 💖 Support
+
+Thank you for visiting and supporting **Awesome Headless CMS**! Your support keeps this curated ecosystem guide active, comprehensive, and up-to-date.
+
+If you find this project valuable, please consider supporting it:
+
+- ⭐ **Star this repository**: Helps more developers discover and evaluate modern headless CMS platforms.
+- 🍴 **Fork & Contribute**: Submit PRs, suggest new CMS tools, update pricing tiers, or report changes in the ecosystem.
+- 📢 **Share**: Spread the word with your engineering teams, digital agencies, and developer communities.
+- ☕ **Buy me a coffee**: Support ongoing maintenance directly via the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
+
+<div align="center">
+
+<a href="https://github.com/sponsors/ishandutta2007">
+  <img src="https://img.shields.io/badge/Sponsor%20on%20GitHub-ea4aaa?style=for-the-badge&logo=github-sponsors&logoColor=white" alt="Sponsor on GitHub" />
+</a>
+<a href="https://github.com/sponsors/ishandutta2007">
+  <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-%E2%98%95-yellow?style=for-the-badge" alt="Buy Me A Coffee" />
+</a>
+
+</div>
 
 ---
 
