@@ -221,6 +221,10 @@ The following list contains open-source and source-available Headless CMS platfo
     * *Language / Stack*: TypeScript / GraphQL / PostgreSQL
     * *Description*: Declarative open-source platform for defining schema, permissions, and generating customized admin UIs with GraphQL APIs over PostgreSQL.
 
+37. **[LessHeadCMS](https://github.com/elverdaderobutschito/LessHeadCMS)** <a href="https://github.com/elverdaderobutschito/LessHeadCMS/stargazers"><img src="https://img.shields.io/github/stars/elverdaderobutschito/LessHeadCMS?style=social&color=white" alt="LessHeadCMS Stars" /></a>
+    * *Language / Stack*: PHP / SQLite
+    * *Description*: Diagram-first headless CMS: define your content model as a PlantUML class diagram and get real database tables, a REST API, and an auto-generated editorial UI. Runs on plain shared hosting via FTP, no Node.js, Docker, or build step required. Includes versioning, workflows, webhooks, roles, and multilingual support.
+
 ---
 
 ## 🧱 Open-Source Building Blocks
